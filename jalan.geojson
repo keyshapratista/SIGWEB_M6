@@ -1,0 +1,19 @@
+ {
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rute UGM"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [110.3744591522217, -7.776053379562819],
+                    [110.37860870361328, -7.765763240368336]
+                ]
+            }
+        }
+    ]
+}
+
