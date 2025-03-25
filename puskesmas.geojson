@@ -1,0 +1,345 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "marker-text": "Puskesmas Mlati I"
+      },
+      "geometry": {
+        "coordinates": [
+          110.36286789850055,
+          -7.754448542734778
+        ],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "marker-text": "Puskesmas Jetis"
+      },
+      "geometry": {
+        "coordinates": [
+          110.36246597181957,
+          -7.783286844100786
+        ],
+        "type": "Point"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "marker-text": "Puskesmas Banguntapan"
+      },
+      "geometry": {
+        "coordinates": [
+          110.41395891256798,
+          -7.8291033694744385
+        ],
+        "type": "Point"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "marker-text": "Puskesmas Kotagede II"
+      },
+      "geometry": {
+        "coordinates": [
+          110.3946413132769,
+          -7.81372062881745
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "marker-text": "Puskesmas Gondokusuman 1"
+      },
+      "geometry": {
+        "coordinates": [
+          110.3807451543945,
+          -7.793777268425487
+        ],
+        "type": "Point"
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "marker-text": "Puskesmas Umbulharjo II"
+      },
+      "geometry": {
+        "coordinates": [
+          110.38971300243651,
+          -7.80019843523101
+        ],
+        "type": "Point"
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "marker-text": "Puskesmas Gedong Tengen"
+      },
+      "geometry": {
+        "coordinates": [
+          110.35772722371979,
+          -7.791131112316634
+        ],
+        "type": "Point"
+      },
+      "id": 6
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "marker-text": "Puskesmas Tegalrejo"
+      },
+      "geometry": {
+        "coordinates": [
+          110.36157296967758,
+          -7.772519610877765
+        ],
+        "type": "Point"
+      },
+      "id": 7
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "marker-text": "Puskesmas Depok 3"
+      },
+      "geometry": {
+        "coordinates": [
+          110.38944479682687,
+          -7.778256490836398
+        ],
+        "type": "Point"
+      },
+      "id": 8
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "marker-text": "Puskesmas Danurejan 1"
+      },
+      "geometry": {
+        "coordinates": [
+          110.37521835170486,
+          -7.7945509974160245
+        ],
+        "type": "Point"
+      },
+      "id": 9
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "marker-text": "Puskesmas Pembantu Dukuh"
+      },
+      "geometry": {
+        "coordinates": [
+          110.353295300953,
+          -7.819428944404436
+        ],
+        "type": "Point"
+      },
+      "id": 10
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "marker-text": "Puskesmas Gamping 2"
+      },
+      "geometry": {
+        "coordinates": [
+          110.33779265196398,
+          -7.783096351549389
+        ],
+        "type": "Point"
+      },
+      "id": 11
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "marker-text": "Puskesmas Wirobrajan"
+      },
+      "geometry": {
+        "coordinates": [
+          110.34808972042339,
+          -7.810607100374369
+        ],
+        "type": "Point"
+      },
+      "id": 12
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "marker-text": "Puskesmas Kraton"
+      },
+      "geometry": {
+        "coordinates": [
+          110.3650020326242,
+          -7.806059360152986
+        ],
+        "type": "Point"
+      },
+      "id": 13
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "marker-text": "Puskesmas Umbulharjo I"
+      },
+      "geometry": {
+        "coordinates": [
+          110.39478061573146,
+          -7.806247335766784
+        ],
+        "type": "Point"
+      },
+      "id": 14
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "marker-text": "Puskesmas Depok II"
+      },
+      "geometry": {
+        "coordinates": [
+          110.40818898402841,
+          -7.756578289079982
+        ],
+        "type": "Point"
+      },
+      "id": 15
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "marker-text": "Puskesmas Gondomanan"
+      },
+      "geometry": {
+        "coordinates": [
+          110.37050499121767,
+          -7.803923118414218
+        ],
+        "type": "Point"
+      },
+      "id": 16
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "marker-text": "Puskesmas Mergangsan"
+      },
+      "geometry": {
+        "coordinates": [
+          110.37531883076218,
+          -7.810117887943676
+        ],
+        "type": "Point"
+      },
+      "id": 17
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "marker-text": "Puskesmas Sewon 1"
+      },
+      "geometry": {
+        "coordinates": [
+          110.3533929195205,
+          -7.860891856448447
+        ],
+        "type": "Point"
+      },
+      "id": 18
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "marker-text": "Puskesmas Kasihan II"
+      },
+      "geometry": {
+        "coordinates": [
+          110.34505732065526,
+          -7.828955818705623
+        ],
+        "type": "Point"
+      },
+      "id": 19
+    }
+  ]
+}
